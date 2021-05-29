@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import random as rdm
 import math
 import unittest
@@ -24,8 +23,6 @@ def monte_carlo(n):
 
     return 4*(countIn/n)
 
-
-=======
 
 class TestWallis(unittest.TestCase):
     def test_low_iters(self):
